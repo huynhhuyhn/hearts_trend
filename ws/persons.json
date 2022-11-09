@@ -1,0 +1,26 @@
+{
+    "personalGREY": {
+      "personal": [
+        {
+          "idGREY": "1",
+          "txNombre": "Lê Đình Hoà",
+          "txDepartamento": "LTV",
+          "txEmpresa": "Nghệ An",
+          "txImagen": "https://scontent.fsgn5-8.fna.fbcdn.net/v/t1.15752-9/298950379_651033929959308_1013122964887326704_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=jOqLDhtfs7UAX-AVjGa&_nc_ht=scontent.fsgn5-8.fna&oh=03_AdTzO-QgFPQ6A1rJwKE-bcHooKYJ4GsEjMr2qyNKwH7Obg&oe=63933281",
+          "numPulsaciones": "75",
+          "cdEstReg": "1",
+          "fechaAlta": "2022-11-09 12:18:42"
+        },
+        {
+          "idGREY": "2",
+          "txNombre": "Võ Thị Cẩm Linh",
+          "txDepartamento": "SQA",
+          "txEmpresa": "Quảng Nam",
+          "txImagen": "https://scontent.fsgn5-3.fna.fbcdn.net/v/t1.15752-9/308091715_392436659746706_6364539475474979369_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=brUPTDT6sIYAX97F_I_&_nc_oc=AQkCsLBdvpRfHMv7VPeg8X8Y2-CzWRvEjTSowa80sTyIQsGKdeZxG1b59AWwpP4MxzAiQSCABhXHyna42Eu_QGYp&_nc_ht=scontent.fsgn5-3.fna&oh=03_AdQiiAVN9cfZHvYrrr0TDyYgPRAE22x1Aoo-ZmzLjmAuRQ&oe=63934A5E",
+          "numPulsaciones": "76",
+          "cdEstReg": "1",
+          "fechaAlta": "2022-11-09 12:18:42"
+        }
+    ]
+}
+}
